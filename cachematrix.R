@@ -67,6 +67,5 @@ cacheSolve <- function(x, ...) {
     # Return new result
     inv.matrix    
     # If the inverse has already been calculated,
-    # cacheSolve()
-    # returns the cached inverse
+    # cacheSolve() returns the cached inverse
 }
